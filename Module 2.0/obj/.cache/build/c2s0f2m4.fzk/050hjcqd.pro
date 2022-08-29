@@ -1,0 +1,1 @@
+{"README.md":[{"File":"README.md","Line":"5","LogLevel":"warning","Message":"Invalid file link:(~/demo.gif).","Phase":"BuildCommand.BuildCore.Build Document.LinkPhaseHandlerWithIncremental.ConceptualDocumentProcessor.Save","Code":"InvalidFileLink"}]}
